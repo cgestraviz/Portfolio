@@ -5,6 +5,11 @@
 * Masters of Science (Data Science), *YouTube University*, 2016-2018
 * Bachelors of Science (Data Science), *YouTube University*, 2012-2016
 
+![alt text](joshua-reddekopp-LYGOsSN0uJE-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@joshuaryanphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joshua Reddekopp</a> on <a href="https://unsplash.com/s/photos/lost-between-two-seas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
@@ -18,3 +23,4 @@ This project makes use of ***sentiment analysis*** of cryptocurrency coupled wit
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
 * **Input:** Cryptocurrency historical price
 * **Output:** Trading signals triggers buying and selling
+
