@@ -24,3 +24,6 @@ This project makes use of ***sentiment analysis*** of cryptocurrency coupled wit
 * **Input:** Cryptocurrency historical price
 * **Output:** Trading signals triggers buying and selling
 
+Gracias al siguiente artículo de Medium que me enseñó a hacer esto:
+
+[How to Build a Simple Portfolio Website for FREE](https://towardsdatascience.com/how-to-build-a-simple-portfolio-website-for-free-f49327675fd9)
